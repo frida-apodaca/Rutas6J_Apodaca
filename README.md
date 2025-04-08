@@ -2,9 +2,11 @@
 
 pantalla 1:
 ![image](https://github.com/user-attachments/assets/10c27ca0-60c5-43a7-8056-cb909713065a)
+
 pantalla 2:
 ![image](https://github.com/user-attachments/assets/efbafaaf-8ba8-4eda-93d4-99fe407ff89e)
 pantalla 3:
+
 ![image](https://github.com/user-attachments/assets/38ebc9a8-53d0-4503-8365-0fc5dbdfbce7)
 
 
