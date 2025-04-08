@@ -5,8 +5,8 @@ pantalla 1:
 
 pantalla 2:
 ![image](https://github.com/user-attachments/assets/efbafaaf-8ba8-4eda-93d4-99fe407ff89e)
-pantalla 3:
 
+pantalla 3:
 ![image](https://github.com/user-attachments/assets/38ebc9a8-53d0-4503-8365-0fc5dbdfbce7)
 
 
