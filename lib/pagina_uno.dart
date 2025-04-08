@@ -24,7 +24,7 @@ class PantallaUno extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, '/pantalla2');
               },
-              child: const Text('Ver pantalla'),
+              child: const Text('Ver pantalla2'),
             ),
           ),
           Center(
@@ -32,7 +32,7 @@ class PantallaUno extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, '/pantalla3');
               },
-              child: const Text('ver pantalla'),
+              child: const Text('ver pantalla3'),
             ),
           )
         ],
